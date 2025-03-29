@@ -1,1 +1,2 @@
-# Develop-a-useful-ASM-program-using-the-Logic-Arithmetic-Instructions
+This is a simple program using a logical Arithmetic Instruction
+I'm running this code using freebsd in Oracle Virtualbox 
